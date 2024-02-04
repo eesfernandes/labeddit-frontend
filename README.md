@@ -6,7 +6,7 @@
 
 
 ### Tela de Login:
-![Labeddit](../labeddit-frontend/src/assets/tela%20de%20login.PNG)
+![Labeddit](src/assets/tela de login.PNG)
 
 
 ### Tela de cadastro:
