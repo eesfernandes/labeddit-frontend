@@ -6,12 +6,12 @@
 
 
 ### Tela de Login:
-![Labeddit](src/assets/tela de login.PNG)
+![tela de login](https://github.com/eesfernandes/labeddit-frontend/assets/112595682/165ed271-df6a-4132-9112-9d5cb206f930)
 
 
 ### Tela de cadastro:
-![Labeddit](../labeddit-frontend/src/assets/tela%20de%20cadastro.PNG)
+![tela de cadastro](https://github.com/eesfernandes/labeddit-frontend/assets/112595682/9b209401-6be3-4cd7-a74b-076ec4a983c5)
 
 
 ### Tela de posts:
-![Labeddit](../labeddit-frontend/src/assets/tela%20de%20post.PNG)
+![tela de post](https://github.com/eesfernandes/labeddit-frontend/assets/112595682/6d5bae88-0bfe-4a80-a2f2-17cd34505d36)
