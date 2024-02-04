@@ -3,6 +3,7 @@
 ## Labeddit é uma rede social com objetivo de promover a conexão e interação entre pessoas.
 
 ### Deploy: https://labeddit-frontend-alpha.vercel.app/login
+### Link do backend: https://github.com/eesfernandes/labeddit-backend
 
 
 ### Tela de Login:
